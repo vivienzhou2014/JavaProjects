@@ -1,0 +1,5 @@
+#save data
+#Wed Apr 05 12:29:45 MDT 2023
+Alice=168
+Belle=160
+Cathy=165
