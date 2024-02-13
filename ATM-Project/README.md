@@ -1,4 +1,4 @@
 The ATM project is to simulate actual ATM opeartions. It shows a welcome page with user login and account opening function. 
 After login, user can choose to check balance, deposit money, withdraw money, transfer money, change password or close account.
 
-![alt text](https://github.com/vivienzhou2014/JavaProjects/ATM-Project/Class-Diagram.png?raw=true)
+![alt text](https://github.com/vivienzhou2014/JavaProjects/ATM-Project/ClassDiagram.png?raw=true)
